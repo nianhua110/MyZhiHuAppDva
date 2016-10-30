@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/components/Unite.js" />
+        <item url="file://$PROJECT_DIR$/src/components/Introduction.js" />
+        <item url="file://$PROJECT_DIR$/src/services/zhihuList.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/components/Unite.js" />
+      <root url="file://$PROJECT_DIR$/src/components/Introduction.js" />
+      <root url="file://$PROJECT_DIR$/src/services/zhihuList.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
